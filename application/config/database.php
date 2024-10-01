@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'db_portalberita',
+	'hostname' => '153.92.15.8',
+	'username' => 'u610515881_portalberita',
+	'password' => 'PortalBerita@1',
+	'database' => 'u610515881_portalberita',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
